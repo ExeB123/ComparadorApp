@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comparador</string>
+    <string name="titulo">Comparador de textos</string>
+    <string name="boton">Comparar</string>
+    <string name="iguales">Son iguales</string>
+    <string name="distintos">No son iguales</string>
+</resources>
+
